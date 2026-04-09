@@ -1,29 +1,89 @@
-# Joshua Watson
+# Joshua Watson  
+**Data Analyst | People Analytics | HR Technology**
 
-Data Analyst | People Analytics | HR Technology
+I design and build end-to-end analytics solutions that transform raw data into actionable business insights. My work focuses on combining data engineering, data modeling, and business intelligence to support decision-making in workforce and operational environments.
 
-I build end-to-end analytics solutions combining data engineering, modeling, and business intelligence.
+---
 
-## Featured Projects
+## Featured Project: Enterprise People Analytics Warehouse
+
+This project demonstrates a full end-to-end people analytics solution built using PostgreSQL and Power BI.
+
+### Key Highlights
+- Built a complete **analytics data warehouse** using PostgreSQL  
+- Designed a **dimensional data model (fact and dimension tables)**  
+- Developed **ETL-style transformations using SQL**  
+- Created a **semantic layer of KPI-driven views**  
+- Delivered an **executive Power BI dashboard** analyzing workforce trends across **9,000+ employees**
+
+### Business Focus Areas
+- Headcount and workforce distribution  
+- Attrition and retention risk analysis  
+- Compensation benchmarking  
+- Engagement and performance relationships  
+- Recruiting pipeline insights  
+
+---
+
+## Architecture
+
+Raw CSV Data → Staging Tables → Dimension & Fact Tables → SQL KPI Views → Power BI Dashboard
+
+---
+
+## Key Insights
+
+- **Sales (12.2%)**, **Marketing (11.6%)**, and **Customer Support (10.8%)** show the highest attrition rates, exceeding the company average of **8.62%**
+- **Legal (3.45)**, **Engineering (3.44)**, and **Product (3.43)** are the top-performing departments
+- **Executive (Performance: 3.30, Engagement: 3.78)** shows lower performance relative to engagement, indicating potential inefficiencies
+- Engagement and performance show a **modest positive relationship**, but additional factors influence outcomes across departments
+- Compensation varies significantly, with **Executive roles averaging $442K**, without corresponding performance leadership
+
+---
+
+## Technical Skills
+
+- **SQL (PostgreSQL)**
+- **Power BI**
+- **R**
+- Data Modeling (Star Schema, Dimensional Design)
+- ETL / Data Pipelines
+- Data Visualization & Dashboarding
+- People Analytics & Workforce Analytics
+
+---
+
+## Additional Projects
 
 ### Synthetic HR Analytics Database
-- Built a synthetic enterprise workforce dataset in R (10,000 employees)
-- Designed dimension and fact tables for analytics use
-- Developed a Power BI dashboard tracking headcount, attrition, recruiting, and compensation
+- Generated a **synthetic enterprise workforce dataset (10,000 employees)** using R  
+- Designed structured datasets for analytics and dashboarding  
+- Enabled analysis across recruiting, compensation, and performance  
 
 ### SQL Relational Database Project
-- Designed and implemented a normalized database schema
-- Wrote business-focused queries for operational insights
+- Designed and implemented a **normalized relational database schema**  
+- Developed business-driven SQL queries for operational insights  
 
 ### Data Analytics Projects
-- Statistical analysis in R
-- Data visualization and dashboard development
-- Workforce and business analytics use cases
+- Statistical analysis using R  
+- Data visualization and reporting  
+- Workforce and business analytics use cases  
 
-## Skills
-- SQL
-- R
-- Power BI
-- Data Modeling
-- ETL / Data Pipelines
-- People Analytics
+---
+
+## Business Value
+
+This project enables organizations to:
+
+- Identify departments with high attrition risk  
+- Analyze engagement and performance relationships  
+- Monitor workforce trends and distribution  
+- Evaluate compensation alignment  
+- Support data-driven HR and business decisions  
+
+
+---
+
+## Contact
+
+Feel free to connect or reach out for opportunities in data analytics, people analytics, or HR technology.
