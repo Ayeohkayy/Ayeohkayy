@@ -40,7 +40,7 @@ Raw CSV Data → Staging Tables → Dimension & Fact Tables → SQL KPI Views �
 - Compensation varies significantly, with **Executive roles averaging $442K**, without corresponding performance leadership
 
 ---
-## 📊 Featured Analysis: Attrition & Retention Modeling
+## 📊 Featured Analysis: Attrition & Retention Modeling (Synthetic HR Analytics Database)
 
 I extended this work by modeling **employee attrition as a time-based risk problem using survival analysis in R**.
 
@@ -52,8 +52,7 @@ I extended this work by modeling **employee attrition as a time-based risk probl
 - Attrition is concentrated in early tenure (first year is highest risk)  
 - Compensation impacts both **likelihood and timing of attrition**
 
-**Attrition Risk by Salary**  
-![Attrition Risk Curve](screenshots/Survival%20Aanalysis/attrition_salary_curve.png)
+
 
 ## Technical Skills
 
