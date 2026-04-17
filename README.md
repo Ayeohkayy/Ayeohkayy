@@ -5,7 +5,7 @@ I design and build end-to-end analytics solutions that transform raw data into a
 
 ---
 
-## Featured Project: Enterprise People Analytics Warehouse
+## 🚀 Featured Project: Enterprise People Analytics Warehouse
 
 This project demonstrates a full end-to-end people analytics solution built using PostgreSQL and Power BI.
 
@@ -40,12 +40,26 @@ Raw CSV Data → Staging Tables → Dimension & Fact Tables → SQL KPI Views �
 - Compensation varies significantly, with **Executive roles averaging $442K**, without corresponding performance leadership
 
 ---
+## 📊 Featured Analysis: Attrition & Retention Modeling
+
+I extended this work by modeling **employee attrition as a time-based risk problem using survival analysis in R**.
+
+### Key Insight
+- Every $10K increase in salary is associated with a **~15–16% reduction in attrition risk**
+
+### Additional Findings
+- Department differences largely disappear after controlling for compensation  
+- Attrition is concentrated in early tenure (first year is highest risk)  
+- Compensation impacts both **likelihood and timing of attrition**
+
+**Attrition Risk by Salary**  
+![Attrition Risk Curve](screenshots/Survival%20Aanalysis/attrition_salary_curve.png)
 
 ## Technical Skills
 
 - **SQL (PostgreSQL)**
 - **Power BI**
-- **R**
+- **R (survival analysis, statistical modeling)**  
 - Data Modeling (Star Schema, Dimensional Design)
 - ETL / Data Pipelines
 - Data Visualization & Dashboarding
