@@ -45,7 +45,7 @@ Raw CSV Data → Staging Tables → Dimension & Fact Tables → SQL KPI Views �
 I extended this work by modeling **employee attrition as a time-based risk problem using survival analysis in R**.
 
 ### Key Insight
-- Every $10K increase in salary is associated with a **~15–17% reduction in attrition risk**
+- Every $10K increase in salary is associated with a **~15.7% reduction in attrition risk**
 
 ### Additional Findings
 - Department differences largely disappear after controlling for compensation  
